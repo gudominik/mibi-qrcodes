@@ -1,0 +1,42 @@
+#qrcode-container {
+    display: grid;
+    justify-content: space-around;
+    /* gap: 20px; Space between each Disziplin div */
+}
+
+.back-to-top {
+    display: block;
+    margin-top: 10px;
+    text-align: right;
+    font-size: 0.9em;
+}
+
+
+.disziplin {
+
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.disziplinHeader {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.labelContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.qr-code {
+    display: grid;
+    justify-content: space-around;
+   /*  gap: 20px; /* Space between each Disziplin div */
+    margin: 50px;
+    text-align: center; /* Center the text above QR code */
+}
+
+.card{
+    margin: 10px;
+    width: 16rem;
+    background-color: whitesmoke;
+}

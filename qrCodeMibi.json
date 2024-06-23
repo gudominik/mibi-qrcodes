@@ -1,0 +1,1977 @@
+[
+  {
+    "Anforderungscode": "_umvaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umvhef_medica",
+    "Bezeichnung": "Hefen (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umvgva_medica",
+    "Bezeichnung": "Gardnerella sp. (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_upmaba_medica",
+    "Bezeichnung": "Allgemeine nach Prostatamassage (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_URSTAT_MDC",
+    "Bezeichnung": "Urinstatus (Mittelstrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umnlpag",
+    "Bezeichnung": "Legionella pneumoniae Antigen (Mittelstrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umnspag",
+    "Bezeichnung": "Streptococcus pneumoniae Antigen (Mittelstrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_unasis_medica",
+    "Bezeichnung": "Schistosomen (Mittagsurin)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umncmp",
+    "Bezeichnung": "Cytomegalovirus (CMV) PCR, qualitativ (Mittelstrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umnbkvp_medica",
+    "Bezeichnung": "Polyoma BK-Virus PCR (Mittelstrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umnzikap_medica",
+    "Bezeichnung": "Zika Virus PCR (Mittelstrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_ucaba_STD",
+    "Bezeichnung": "Allgemeine Bakteriologie (Mittelstrahlurin Eintauchnährboden)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_uekaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Einmalkatheterurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_uekhef_medica",
+    "Bezeichnung": "Hefen (Einmalkatheterurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_uekgva_medica",
+    "Bezeichnung": "Gardnerella sp. (Einmalkatheterurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_udkaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Dauerkatheterurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_udkhef_medica",
+    "Bezeichnung": "Hefen (Dauerkatheterurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_udkgva_medica",
+    "Bezeichnung": "Gardnerella sp. (Dauerkatheterurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umectp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umecnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umengp",
+    "Bezeichnung": "Neisseria gonorrhoeaes PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umeadp",
+    "Bezeichnung": "Adenovirus PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umecmp",
+    "Bezeichnung": "Cytomegalovirus (CMV) PCR, qualitativ (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umemup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umemgenresip_medica",
+    "Bezeichnung": "M. genitalium Makrolidresistenz PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umebkvp_medica",
+    "Bezeichnung": "Polyoma BK-Virus PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umetvp",
+    "Bezeichnung": "Trichomonas vaginalis PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umezikap_medica",
+    "Bezeichnung": "Zika Virus PCR (morgendlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_umetbc",
+    "Bezeichnung": "1. Probe M. tuberculosis-Komplex Kultur (mind. 30 ml) (morgentlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_ume2tbc",
+    "Bezeichnung": "2. Probe M. tuberculosis-Komplex Kultur (mind. 30 ml) (morgentlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_ume3tbc",
+    "Bezeichnung": "3. Probe M. tuberculosis-Komplex Kultur (mind. 30 ml) (morgentlicher Erststrahlurin nativ)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_ubpaban_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Blasenpunktionsurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_ubphef_medica",
+    "Bezeichnung": "Hefe (Blasenpunktionsurin mit Stabilisator)",
+    "Disziplin": "Harnwege"
+  },
+  {
+    "Anforderungscode": "_vababa_STD",
+    "Bezeichnung": "Allgemeine Bakteriologie (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabhef",
+    "Bezeichnung": "Hefen (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabngo",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabbhs",
+    "Bezeichnung": "Streptokokken Gr. B in der Schwangerschaft (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabctp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabcnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabngp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabhpvp_medica",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabmup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabmgenresip_medica",
+    "Bezeichnung": "M. genitalium Makrolidresistenz PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vabtvp",
+    "Bezeichnung": "Trichomonas vaginalis PCR (Vaginalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cababa_STD",
+    "Bezeichnung": "Allgemeine Bakteriologie (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabhef",
+    "Bezeichnung": "Hefen (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabngo",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabbhs",
+    "Bezeichnung": "Streptokokken Gr. B in der Schwangerschaft (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabakt",
+    "Bezeichnung": "Aktinomyzeten Kultur (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabctp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabcnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabngp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabhpvp",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabmup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabmgenresip_medica",
+    "Bezeichnung": "M. genitalium Makrolidresistenz PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_cabtvp",
+    "Bezeichnung": "Trichomonas vaginalis PCR (Cervixabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcababa_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabhef_medica",
+    "Bezeichnung": "Hefen (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabbhs_medica",
+    "Bezeichnung": "Streptokokken Gr. B in der Schwangerschaft (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabakt_medica",
+    "Bezeichnung": "Aktinomyzeten Kultur (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabctp_medica",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabcnp_medica",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabngp_medica",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Vaginal- / Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Vaginal- / Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabhpvp_medica",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabmup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (Vaginal- / Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabmgenresip_medica",
+    "Bezeichnung": "M. genitalium Makrolidresistenz PCR (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Vaginal-/ Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vcabtvp_medica",
+    "Bezeichnung": "Trichomonas vaginalis PCR (Vaginal- / Cervicalabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uababa_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabhef",
+    "Bezeichnung": "Hefen (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabngo",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabgva",
+    "Bezeichnung": "Gardnerella vaginalis Kultur (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabctp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabcnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabngp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabhpvp",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabmup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabmgenresip_medica",
+    "Bezeichnung": "M. genitalium Makrolidresistenz PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uabtvp",
+    "Bezeichnung": "Trichomonas vaginalis PCR (Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uvabctp_medica",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Vaginal-/ Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uvabcnp_medica",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Vaginal-/ Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uvabngp_medica",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Vaginal-/ Uretthralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uvabmup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR ()",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_uvabmgenresip_medica",
+    "Bezeichnung": "M. genitalium Makrolidresistenz PCR (Vaginal-/ Urethralabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vrabbbhs",
+    "Bezeichnung": "Streptokokken Gr. B in der Schwangerschaft (Vaginal- / Analabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vrabctp_medica",
+    "Bezeichnung": "Chlamydia trachomatis (Vaginal-/ Analabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vrabcnp_medica",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Vaginal-/ Analabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vrabngp_medica",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Vaginal-/ Analabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vrabhpvp",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Vaginal-/ Analabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vrabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Vaginal-/ Analabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vuaaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Vulvaabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vuahef",
+    "Bezeichnung": "Hefen (Vulvaabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vuahsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Vulvaabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vuahpvp",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Vulvaabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_vuatphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Vulvaabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ulaaban",
+    "Bezeichnung": "Allgemeine Bakteriologie (Ulkus-/ Bläschenabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ulahsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Ulkus- / Bläschenabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ulatphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Ulkus-/ Bläschenabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pababa_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabhef",
+    "Bezeichnung": "Hefen (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabngo",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabctp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabcnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabngp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabhpvp_medica",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_pabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Penisabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejaaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Ejakulat, Prostataexprimat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejango",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Ejakulat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejactp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Ejakulat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejacnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Ejakulat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejangp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Ejakulat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejamup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (Ejakulat, Prostataexprimat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ejatvp_medica",
+    "Bezeichnung": "Trichomonas vaginalis PCR (Ejakulat, Prostataexprimat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_araaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Perianal-/ Anorektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_arahef",
+    "Bezeichnung": "Hefen (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_arango",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Ano-rektal Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_arapro",
+    "Bezeichnung": "Resistenz vor Prostatabiopsie (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_aractp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_aracnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_arangp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Ano-rektal Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_arahsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_arahpvp",
+    "Bezeichnung": "HPV inkl. Typisierung PCR (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_aratphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Ano-rektal-Abstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_douaban_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Douglaspunktat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_douakt",
+    "Bezeichnung": "Aktinomyzeten Kultur (Douglaspunktat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_douctp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Douglaspunktat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_doucnp",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Douglaspunktat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_doungp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Douglaspunktat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_doumup_medica",
+    "Bezeichnung": "Mycoplasma genitalium / M. hominis / Ureaplasma parvum / U. urealyticum PCR (Douglaspunktat)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ftwaban_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Plazentaabstrich)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ftwcmp",
+    "Bezeichnung": "Cytomegalovirus (CMV) PCR, qualitativ (Fruchtwasser / Plazenta)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_ftwpvp",
+    "Bezeichnung": "Parvovirus B19 PCR (Fruchtwasser / Plazenta)",
+    "Disziplin": "Genitaltrakt"
+  },
+  {
+    "Anforderungscode": "_nrabmrsa_medica",
+    "Bezeichnung": "MRSA Kultur und Resistenz (Nasen-Rachenabstrich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_nrabmrsap_medica",
+    "Bezeichnung": "MRSA PCR (Nasen-Rachenabrstich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_axamrsa",
+    "Bezeichnung": "MRSA Kultur und Resistenz (Axillärer Abstrich, beidseits)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_labmrsa",
+    "Bezeichnung": "MRSA Kultur und Resistenz (Leistenabstrich, beidseits)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_umvmrsa",
+    "Bezeichnung": "MRSA Kultur und Resistenz (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_waomrsa",
+    "Bezeichnung": "MRSA Kultur und Resistenz (Wundabstrich, oberflächlich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_labesbl",
+    "Bezeichnung": "ESBL Kultur und Resistenz (Leistenabstrich, beidseits)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_araesbl",
+    "Bezeichnung": "ESBL Kultur und Resistenz (Ano-rektal Abstrich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_umvesbl",
+    "Bezeichnung": "ESBL Kultur und Resistenz (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_waoesbl",
+    "Bezeichnung": "ESBL Kultur und Resistenz (Wundabstrich, oberflächlich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_labvre_medica",
+    "Bezeichnung": "VRE Kultur und Resistenz (Leistenabstrich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_aravre",
+    "Bezeichnung": "VRE Kultur und Resistenz (Ano-rektal Abstrich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_umvvre",
+    "Bezeichnung": "VRE Kultur und Resistenz (Mittelstrahlurin mit Stabilisator)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_waovre",
+    "Bezeichnung": "VRE Kultur und Resistenz (Wundabstrich, oberflächlich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_labcaur",
+    "Bezeichnung": "Candida auris Kultur und Resistenz (Leistenabstrich, beidseits)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_axacaur",
+    "Bezeichnung": "Candida auris Kultur und Resistenz (Axillärer Abstrich, beidseits)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_nrabcaur",
+    "Bezeichnung": "Candida auris Kultur und Resistenz (Nasen-/Rachenabstrich, beidseits)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "_waocaur",
+    "Bezeichnung": "Candida auris Kultur und Resistenz (Wundabstrich, oberflächlich)",
+    "Disziplin": "Multiresistente Erreger, Trägertum (eSwab)"
+  },
+  {
+    "Anforderungscode": "hababa",
+    "Bezeichnung": "Allgemeine Bakteriologie (Hautabstrich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "habhef_medica",
+    "Bezeichnung": "Hefen (Hautabstrich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "bababa",
+    "Bezeichnung": "Allgemeine Bakteriologie (Bläschenabstrich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "babhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 +2 PCR (Bläschenabstrich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "babvzvp",
+    "Bezeichnung": "Varizella-Zoster-Virus PCR (Bläschenabstrich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "waoaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Wundabstrich, oberflächlich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "waohef_medica",
+    "Bezeichnung": "Hefen (Wundabstrich, oberflächlich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "waocdi",
+    "Bezeichnung": "Corynebacterium diphtheriae (Wundabstrich, oberflächlich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "malmi",
+    "Bezeichnung": "Malassezia (mikroskopisch",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "waopvp_medica",
+    "Bezeichnung": "Parvovirus B19 PCR (Wundabstrich, oberflächlich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "waovzvp",
+    "Bezeichnung": "Varizella-Zoster-Virus PCR (Wundabstrich, oberflächlich)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wataban",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wathef_medica",
+    "Bezeichnung": "Hefen (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "watcdi",
+    "Bezeichnung": "Corynebacterium diphtheriae  (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "watakt",
+    "Bezeichnung": "Aktinomyzeten (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "watnoc_medica",
+    "Bezeichnung": "Nocardien (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "watbbbpkw",
+    "Bezeichnung": "Bakterielle Breitband-PCR, falls Kultur negativ (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "watftp_medica",
+    "Bezeichnung": "Francisella tularensis PCR (Wundabstrich, tief, intraoperativ)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wasaban",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "washef_medica",
+    "Bezeichnung": "Hefen (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wascdi",
+    "Bezeichnung": "Corynebacterium diphtheriae (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wasakt",
+    "Bezeichnung": "Aktinomyzeten Kultur (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wasnoc",
+    "Bezeichnung": "Nocardien Kultur (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wastbc",
+    "Bezeichnung": "M. tuberculosis-Komplex Kultur (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "wasbbbpkw",
+    "Bezeichnung": "Bakterielle Breitband-PCR, falls Kultur negativ (Wundsekret, Abszessmaterial, Eiter)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "bioaban",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "biopil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "bioakt",
+    "Bezeichnung": "Aktinomyzeten Kultur (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "bionoc",
+    "Bezeichnung": "Nocardien Kultur (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "biotbc",
+    "Bezeichnung": "M. tuberculosis-Komplex Kultur (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "biobbbpkw",
+    "Bezeichnung": "Bakterielle Breitband-PCR, falls Kultur negativ (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "biobbp",
+    "Bezeichnung": "Borrelia burgdorferi PCR (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "biocmp",
+    "Bezeichnung": "Cytomegalovirus (CMV) PCR, qualitativ (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "biotwp",
+    "Bezeichnung": "Tropheryma whipplei PCR (Biopsie)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "punaban_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Drainageflüssigkeit/ Aszites/ Galle)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "punpil_medica",
+    "Bezeichnung": "Hefen und Schimmelpilze (Drainageflüssigkeit/ Aszites/ Galle)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "puntbc_medica",
+    "Bezeichnung": "M. tuberculosis-Komplex Kultur (Drainageflüssigkeit/ Aszites/ Galle)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktaban+4",
+    "Bezeichnung": "Allgemeine Bakteriologie (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktpil+4",
+    "Bezeichnung": "Hefen und Schimmelpilze (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pkttbc+4",
+    "Bezeichnung": "M. tuberculosis-Komplex Kultur (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "MCA_PUNK!PUNKGB",
+    "Bezeichnung": "Punktatblock",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktbbbpkw+4_medica",
+    "Bezeichnung": "Bakterielle Breitband-PCR, falls Kultur negativ (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktbbp+4_medica",
+    "Bezeichnung": "Borrelia burgdorferi PCR (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktctp+4_medica",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktcnp+4_medica",
+    "Bezeichnung": "C. trachomatis / N. gonorrhoeae PCR (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktngp+4_medica",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktpvp+4_medica",
+    "Bezeichnung": "Parvovirus B19 PCR (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pkttwp+4_medica",
+    "Bezeichnung": "Tropheryma whipplei PCR (Punktat/ Pleura/ Synovia/ Bursa > 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktaban-4",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktpil-4",
+    "Bezeichnung": "Hefen und Schimmelpilze (Punktat/ Pleura/ Synovia/ Bursa < 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pkttbc-4",
+    "Bezeichnung": "M. tuberculosis-Komplex Kultur (Punktat/ Pleura/ Synovia/ Bursa < 4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "MCA_PUNK!SYNNA",
+    "Bezeichnung": "Punktatblock",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktbbbpkw-4_medica",
+    "Bezeichnung": "Bakterielle Breitband-PCR, falls Kultur negativ (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktbbp-4_medica",
+    "Bezeichnung": "Borrelia burgdorferi PCR (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktctp-4_medica",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktcnp-4_medica",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktngp-4_medica",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pktpvp-4_medica",
+    "Bezeichnung": "Parvovirus B19 PCR (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "pkttwp-4_medica",
+    "Bezeichnung": "Tropheryma whipplei PCR (Punktat/ Pleura/ Synovia/ Bursa <4ml)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "MCA_LCPU!SYNE",
+    "Bezeichnung": "Punktat Zellzahl und Differenzierung",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqaban",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqpil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqtbc",
+    "Bezeichnung": "M. tuberculosis-Komplex Kultur (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqMEpan_medica",
+    "Bezeichnung": "Meningitis PCR Panel (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqadp",
+    "Bezeichnung": "Adenovirus PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqbbbpkw",
+    "Bezeichnung": "Bakterielle Breitband-PCR, falls Kultur negativ (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqbbp",
+    "Bezeichnung": "Borrelia burgdorferi PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqcmp",
+    "Bezeichnung": "Cytomegalovirus (CMV) PCR, qualitativ (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqebvp_medica",
+    "Bezeichnung": "EBV PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqetp",
+    "Bezeichnung": "Enterovirus PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqfsmep_medica",
+    "Bezeichnung": "FSME PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqftp",
+    "Bezeichnung": "Francisella tularensis PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus 1 + 2 PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqpvp",
+    "Bezeichnung": "Parvovirus B19 PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqjcvp_medica",
+    "Bezeichnung": "Polyoma JC-Virus PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqtwp",
+    "Bezeichnung": "Tropheryma whipplei PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_liqvzvp",
+    "Bezeichnung": "Varizella-Zoster-Virus PCR (Liquor)",
+    "Disziplin": "Wundabstriche (eSwab), Punktate, Sekrete und Biopsien (nativ)"
+  },
+  {
+    "Anforderungscode": "_bkvaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (1. Blutkultur, venös)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkv2aba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (2. Blutkultur, venös)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkv3aba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (3. Blutkultur, venös)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkzaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (1. Blutkultur, ZVK)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkz2aba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (2. Blutkultur, ZVK)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkz3aba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (3. Blutkultur, ZVK)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkvbru",
+    "Bezeichnung": "1. Blutkultur mit verlängerter Inkubation bei: Verdacht auf Brucellose (Blutkultur, venös)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkv2bru",
+    "Bezeichnung": "2. Blutkultur mit verlängerter Inkubation bei: Verdacht auf Brucellose (Blutkultur, venös)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_bkv3bru",
+    "Bezeichnung": "3. Blutkultur mit verlängerter Inkubation bei: Verdacht auf Brucellose (Blutkultur, venös)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_cittbc",
+    "Bezeichnung": "TBC / Mykobakterien Kultur (Citratblut)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtacmp",
+    "Bezeichnung": "Cytomegalovirus PCR, qualitativ",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtaebvp_medica",
+    "Bezeichnung": "EBV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtafsmep_medica",
+    "Bezeichnung": "FSME (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HBDAT!E",
+    "Bezeichnung": "Hepatitis B Virus HBV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HCRAT!E",
+    "Bezeichnung": "Hepatitis C Virus HCV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtahevp_medica",
+    "Bezeichnung": "Hepatitis E Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HIRAT!E",
+    "Bezeichnung": "HIV-1 (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtapvp",
+    "Bezeichnung": "Parvovirus B19 PCR",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtabkvp_medica",
+    "Bezeichnung": "Polyoma BK-Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtatwp",
+    "Bezeichnung": "Tropheryma whipplei PCR (EDTA-Blut)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtavzvp_medica",
+    "Bezeichnung": "Varizella Zoster VZV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_edtazikap_medica",
+    "Bezeichnung": "Zika Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_eplcmp_medica",
+    "Bezeichnung": "CMV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_eplebvp_medica",
+    "Bezeichnung": "EBV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HBDAT!P",
+    "Bezeichnung": "Hepatitis B Virus HBV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HCRAT!P",
+    "Bezeichnung": "Hepatitis C Virus HCV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_eplhevp_medica",
+    "Bezeichnung": "Hepatitis E Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HIRAT!P",
+    "Bezeichnung": "HIV-1 (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_eplpvp_medica",
+    "Bezeichnung": "Parvovirus B19 (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_eplbkvp_medica",
+    "Bezeichnung": "Polyoma BK-Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_eplzikap_medica",
+    "Bezeichnung": "Zika Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_secmp_medica",
+    "Bezeichnung": "CMV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_seebvp_medica",
+    "Bezeichnung": "EBV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_sefsmep_medica",
+    "Bezeichnung": "FSME (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HBDAT!S",
+    "Bezeichnung": "Hepatitis B Virus HBV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_MCA_HCRAT!S",
+    "Bezeichnung": "Hepatitis C Virus HCV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_sehevp_medica",
+    "Bezeichnung": "Hepatitis E Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_sepvp_medica",
+    "Bezeichnung": "Parvovirus B19 (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_sebkvp_medica",
+    "Bezeichnung": "Polyoma BK-Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_sevzvp_medica",
+    "Bezeichnung": "Varizella Zoster VZV (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_sezikap_medica",
+    "Bezeichnung": "Zika Virus (PCR)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_zvkaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Katheterspitze, ZVK)",
+    "Disziplin": "Blut"
+  },
+  {
+    "Anforderungscode": "_nababa",
+    "Bezeichnung": "Allgemeine Bakteriologie (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabhef",
+    "Bezeichnung": "Hefen (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabsaur",
+    "Bezeichnung": "Staphylococcus aureus (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabcf_medica",
+    "Bezeichnung": "Cystische Fibrose (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabRespipan_medica",
+    "Bezeichnung": "Respi-Panel Viren und Bakterien PCR (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabadp_medica",
+    "Bezeichnung": "Adenoviren PCR (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabetp_medica",
+    "Bezeichnung": "Enterovirus PCR (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabiabp_medica",
+    "Bezeichnung": "Influenza A/B PCR (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabrsvp",
+    "Bezeichnung": "Respiratorisches Synzytial Virus (RSV) PCR (Nasenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabcovn2019p_medica",
+    "Bezeichnung": "SARS-CoV-2 PCR (Verrechnung an Krankenkasse)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_nabcovn2019pnokp_medica",
+    "Bezeichnung": "SARS-CoV-2 PCR (Nicht-Pflicht-Leistung)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Nasopharynx-Sekret / -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npshef",
+    "Bezeichnung": "Hefen (Nasopharynx-Sekret / -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsRespipan_medica",
+    "Bezeichnung": "Respi-Panel Viren und Bakterien PCR (Nasopharynx-Sekret/ -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsadp",
+    "Bezeichnung": "Adenovirus PCR (Nasopharynx-Sekret / -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsbpp",
+    "Bezeichnung": "Bordetella pertussis / parapertussis PCR (Nasopharynx-Sekret / -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsetp",
+    "Bezeichnung": "Enterovirus PCR (Nasopharynx-Sekret / -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsiabp_medica",
+    "Bezeichnung": "Influenza A +B PCR (Nasopharynx-Sekret/ -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npsrsvp_medica",
+    "Bezeichnung": "Respiratorisches Synzytial Virus (RSV) PCR (Nasopharynx-Sektret / -Abstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npscovn2019",
+    "Bezeichnung": "SARS Coronavirus 2 (SARS-CoV-2) PCR (Nasopharynx-Sekret / -Abstrich) (Verrechnung an Krankenkasse)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_npscovn2019nokp",
+    "Bezeichnung": "SARS Coronavirus 2 (SARS-CoV-2) PCR (Nasopharynx-Sekret / -Abstrich) (Nicht-Pflicht-Leistung)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_sinaban_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie und Pilze (Sinussekret, Nasenabstrich bei chronischer Sinusitis)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_zabhef",
+    "Bezeichnung": "Hefen (Zungenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rababa",
+    "Bezeichnung": "Beta-hämolysierende Streptokokken Kultur (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabcdi",
+    "Bezeichnung": "Corynebacterium diphtheriae (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabngo",
+    "Bezeichnung": "Neisseria gonorrhoeae Kultur (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabcf_medica",
+    "Bezeichnung": "Cystische Fibrose (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabpvf",
+    "Bezeichnung": "Plaut-Vincent-Flora (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabRespipan_medica",
+    "Bezeichnung": "Respi-Panel Viren und Bakterien PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabcpt",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabcnp_medica",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabngp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabadp",
+    "Bezeichnung": "Adenovirus PCR (Rachenabrstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabbpp_medica",
+    "Bezeichnung": "Bordetella pertussis / parapertussis PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabebvp_medica",
+    "Bezeichnung": "EBV PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabetp",
+    "Bezeichnung": "Enterovirus PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabiabp_medica",
+    "Bezeichnung": "Influenza A/B PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabrsvp",
+    "Bezeichnung": "Respiratorisches Synzytial Virus (RSV) PCR (Rachenabstrich/ Tonsillen)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabcovn2019p_medica",
+    "Bezeichnung": "SARS-CoV-2 PCR (Verrechung an Krankenkasse) (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabcovn2019pnokp_medica",
+    "Bezeichnung": "SARS-CoV-2 PCR (Nicht-Pflicht-Leistung) (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_rabtphdp_medica",
+    "Bezeichnung": "Treponema pallidum / Haemophilus ducreyi PCR (Rachenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spuaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Sputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spupil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Sputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spupjif",
+    "Bezeichnung": "Pneumocystis jirovecii Antigen (IF) (Sputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spucf_medica",
+    "Bezeichnung": "Cystische Fibrose (Sputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_sputbc_medica",
+    "Bezeichnung": "1. TBC/ Mykobakterien Kultur (mind. 3 ml Morgensputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spu2tbc_medica",
+    "Bezeichnung": "2. TBC / Mykobakterien Kultur (mind. 3 ml Morgensputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spu3tbc_medica",
+    "Bezeichnung": "3. TBC/ Mykobakterien Kultur (mind. 3 ml Morgensputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spumtp",
+    "Bezeichnung": "M.tbc-Komplex (PCR) zusätzlich zur Kultur (Morgensputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_spumycp_medica",
+    "Bezeichnung": "Mycobacterium Genus PCR zusätzlich zur Kultur (Morgensputum)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btsaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Bronchial-/ Trachealsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btspil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Bronchial-/ Trachealsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btsakt",
+    "Bezeichnung": "Aktinomyzeten Kultur (Bronchial-/ Trachealsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btsnoc",
+    "Bezeichnung": "Nocardien Kultur (Bronchial-/ Trachealsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btstbc_medica",
+    "Bezeichnung": "TBC/ Mykobakterien Kultur (Bronchial-/ Trachealsekret, mind. 3 ml)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btspjif",
+    "Bezeichnung": "Pneumocystis jirovecii Antigen (IF) (Bronchial- / Trachealsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btsmtp",
+    "Bezeichnung": "M.tbc-Komplex (PCR) zusätzlich zur Kultur (Bronchial-/Trachealsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btsmycp_medica",
+    "Bezeichnung": "Mycobacterium Genus PCR  zusätzlich zur Kultur (Tracheal-/Bronchialsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_btscf_medica",
+    "Bezeichnung": "Cystische Fibrose (Tracheal-/Bronchialsekret)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aababa",
+    "Bezeichnung": "Allgemeine Bakteriologie (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aabpil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balpil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aabctp",
+    "Bezeichnung": "Chlamydia trachomatis PCR (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balakt",
+    "Bezeichnung": "Aktinomyzeten Kultur (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aabcnp_medica",
+    "Bezeichnung": "Chlamydia trachomatis / Neisseria gonorrhoeae PCR (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balnoc",
+    "Bezeichnung": "Nocardien Kultur (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aabngp",
+    "Bezeichnung": "Neisseria gonorrhoeae PCR (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_baltbc_medica",
+    "Bezeichnung": "TBC/ Mykobakterien Kultur (Bronchoalveoläre Lavage, mind. 30 ml)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aabadp",
+    "Bezeichnung": "Adenovirus PCR (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balpjif",
+    "Bezeichnung": "Pneumocystis jirovecii Antigen (IF) (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_aabhsvp_medica",
+    "Bezeichnung": "Herpes-simplex-Virus  1 + 2 PCR ( (Augenabstrich)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balmtp",
+    "Bezeichnung": "M.tbc-Komplex (PCR) zusätzlich zur Kultur (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balmycp_medica",
+    "Bezeichnung": "Mycobacterium Genus PCR zusätzlich zur Kultur (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_balcf_medica",
+    "Bezeichnung": "Cystische Fibrose (Bronchoalveoläre Lavage)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_oamaban",
+    "Bezeichnung": "Allgemeine Bakteriologie inkl. Anaerobier (Ohrabstrich Otitis media / perforata)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_oampil",
+    "Bezeichnung": "Hefen und Schimmelpilze (Ohrabstrich Otitis media / perforata)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_oaeaba_medica",
+    "Bezeichnung": "Allgemeine Bakteriologie (Ohrabstrich Otitis externa)",
+    "Disziplin": "Respirationstrakt, HNO, Ophthalmologie"
+  },
+  {
+    "Anforderungscode": "_hadermap_medica",
+    "Bezeichnung": "Dermatophyten/ Candida PCR (Haare)",
+    "Disziplin": "Dermatomykosen"
+  },
+  {
+    "Anforderungscode": "_htdermap_medica",
+    "Bezeichnung": "Dermatophyten/ Candida PCR (Hautschuppen)",
+    "Disziplin": "Dermatomykosen"
+  },
+  {
+    "Anforderungscode": "_nagdermap_medica",
+    "Bezeichnung": "Dermatophyten/ Candida PCR (Nagelgeschabsel)",
+    "Disziplin": "Dermatomykosen"
+  },
+  {
+    "Anforderungscode": "_nagpse_medica",
+    "Bezeichnung": "Pseudomonas aeruginosa (Nagelgeschabsel nativ)",
+    "Disziplin": "Dermatomykosen"
+  },
+  {
+    "Anforderungscode": "_stncdag",
+    "Bezeichnung": "Clostridium difficile (Stuhl nativ Deckel weiss)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_MCA_HPSA!STNA",
+    "Bezeichnung": "Helicobacter pylori Antigen (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_stnhpp_medica",
+    "Bezeichnung": "Helicobacter pylori inkl. Makrolidresistenz PCR (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_paraid",
+    "Bezeichnung": "Parasiten (Wurm/ -teile, Proglottiden, Ektoparasiten)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_stnstl_medica",
+    "Bezeichnung": "Larvenkultur (Strongyloides) (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_MCA_CALPRO!STNA",
+    "Bezeichnung": "Calprotectin (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_MCA_ELAS!STNA",
+    "Bezeichnung": "Elastase (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_MCA_FOB1!STNA1",
+    "Bezeichnung": "1. Okkultes Blut (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_MCA_FOB2!STNA2",
+    "Bezeichnung": "2. Okkultes Blut (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_MCA_FOB3!STNA3",
+    "Bezeichnung": "3. Okkultes Blut (Stuhl nativ)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbsal",
+    "Bezeichnung": "Salmonellen Kultur (Stuhl in Cary Blair Deckel braun/ grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbcam",
+    "Bezeichnung": "Campylobacter Kultur (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbhef",
+    "Bezeichnung": "Hefen (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbGIbak_medica",
+    "Bezeichnung": "Gastro-Panel Bakterien PCR (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbGIpar_medica",
+    "Bezeichnung": "Gastro-Panel Parasiten PCR (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbGIvir_medica",
+    "Bezeichnung": "Gastro-Panel Viren PCR (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbadp_medica",
+    "Bezeichnung": "Adenoviren PCR (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbcmp_medica",
+    "Bezeichnung": "Cytomegalovirus PCR, qualitativ (Stuhl in Cary Blair Deckel braun/grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbetp",
+    "Bezeichnung": "Enteroviren PCR (Stuhl in Cary Blair Deckel braun/ grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbhevp_medica",
+    "Bezeichnung": "Hepatitis E Virus (PCR)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbnop",
+    "Bezeichnung": "Noroviren PCR  (Stuhl in Cary Blair Deckel braun/ grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_scbtwp",
+    "Bezeichnung": "Tropheryma whipplei PCR (Stuhl in Cary Blair Deckel braun/ grün)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_safwur",
+    "Bezeichnung": "1. Helmintheneier (Wurmeier) (Stuhl fixiert in SAF-Transportlösung Deckel orange)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_saf2wur",
+    "Bezeichnung": "2. Helmintheneier (Wurmeier) (Stuhl fixiert in SAF-Transportlösung Deckel orange)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_saf3wur",
+    "Bezeichnung": "3. Helmintheneier (Wurmeier) (Stuhl fixiert in SAF-Transportlösung Deckel orange)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_safpro",
+    "Bezeichnung": "1. Protozoen (Amoeben, G. lamblia, etc.) (Stuhl fixiert in SAF-Transportlösung Deckel orange)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_saf2pro",
+    "Bezeichnung": "2. Protozoen (Amoeben, G. lamblia, etc.) (Stuhl fixiert in SAF-Transportlösung Deckel orange)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_saf3pro",
+    "Bezeichnung": "3. Protozoen (Amoeben, G. lamblia, etc.) (Stuhl fixiert in SAF-Transportlösung Deckel orange)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_duoaban",
+    "Bezeichnung": "Allgemeine Bakteriologie (Duodenalsaft)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_mshhpy",
+    "Bezeichnung": "Helicobacter pylori Kultur und Resistenzprüfung (Magenschleimhaut- bzw. Dünndarmbiopsie)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_mshhpp",
+    "Bezeichnung": "Helicobacter pylori PCR (Magenschleimhaut- bzw. Dünndarmbiopsie)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_sakoxy",
+    "Bezeichnung": "1. Probe Oxyuren (Enterobius vermicularis) Eier (Analkleber)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_sak2oxy",
+    "Bezeichnung": "2. Probe Oxyuren (Enterobius vermicularis) Eier (Analkleber)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "_sak3oxy",
+    "Bezeichnung": "3. Probe Oxyuren (Enterobius vermicularis) Eier (Analkleber)",
+    "Disziplin": "Gastrointestinaltrakt"
+  },
+  {
+    "Anforderungscode": "impaban",
+    "Bezeichnung": "Allgemeine Bakteriologie (Implantat für Sonikation)",
+    "Disziplin": "Diverses"
+  },
+  {
+    "Anforderungscode": "_bacloaba",
+    "Bezeichnung": "Allgemeine Bakteriologie (Baclofenpumpe)",
+    "Disziplin": "Diverses"
+  }
+]
